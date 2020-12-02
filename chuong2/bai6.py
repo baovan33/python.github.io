@@ -1,0 +1,1 @@
+print("\tVới em dù lắm chua cay\nTình yêu trước gió càng lay càng bền")
